@@ -106,4 +106,5 @@ extra:
    ref: https://anaconda.zendesk.com/agent/tickets/32963
    recipe-maintainers:
       - ianaobi
+      - bradley
       
